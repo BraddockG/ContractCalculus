@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ContractCalculus</string>
+    <string name="title_present_calculation">Present Calculation</string>
+
+    <string name="calculate_line_one">Ever thought phone contracts were overly expensive?</string>
+    <string name="calculate_line_two">Use the calculator below to check out the difference between the two methods.</string>
+
+    <string name="present_line_one">So What\'s the Difference?</string>
+
+    <string name="present_line_two_sim_only">Sim-only is cheaper by \n %1$s</string>
+    <string name="present_line_three_sim_only">A mobile contract is \n %1$s/month \n\n or \n\n %2$s/week \n more expensive.</string>
+
+    <string name="present_line_two_mobile_contract">Mobile contract is cheaper by \n %1$s</string>
+    <string name="present_line_three_mobile_contract">Sim-only is \n %1$s/month \n\n or \n\n %2$s/week \n more expensive.</string>
+
+    <string name="empty_edit_text">One or more of the boxes are empty</string>
+
+    <string name="sim_only_cost">Sim Only Month Cost</string>
+    <string name="sim_only_cost_hint">i.e. - 4GB. 600 is £16/month</string>
+
+    <string name="cost_of_handset">Cost of Handset</string>
+    <string name="cost_of_handset_hint">i.e. - iPhone 6s 16GB is £539</string>
+
+    <string name="contract_monthly_cost">Contract Monthly Cost</string>
+    <string name="contract_monthly_cost_hint">i.e. - 4GB, AYCE is £40/month</string>
+
+    <string name="contract_upfront_cost">Contract Upfront Cost</string>
+    <string name="contract_upfront_cost_hint">i.e.- £49 one off upfront</string>
+
+    <string name="calculate_difference_button">Calculate Difference</string>
+    <string name="start_again_button">Start Again</string>
+</resources>
